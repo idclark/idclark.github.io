@@ -14,12 +14,16 @@ These are all links that I repeatedly visit and hopefully you can find some of t
 
 [Chris Colah on Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 
+[Danny Britz's blog](http://www.wildml.com/)
+
 ## Finance
 [Investopedia for good intro definitions](http://www.investopedia.com/)
 
 [Chris Stucchio on HFT](https://www.chrisstucchio.com/blog/2012/hft_apology.html)
 
-[Matt Levin's MoneyStuff Blog](https://www.bloomberg.com/view/topics/money-stuff)
+[Matt Levine's MoneyStuff Blog](https://www.bloomberg.com/view/topics/money-stuff)
+
+[FT's blog Alphaville](http://ftalphaville.ft.com/)
 
 ## Slowtwitch 
 [Slowtwich.com](http://www.slowtwitch.com/)
