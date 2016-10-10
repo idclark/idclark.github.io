@@ -8,7 +8,7 @@
 # Site settings
 title: Ian Clark
 email: ian@idclark.com
-description: > # this means to ignore newlines until "baseurl:"
+description: This is where I write about life while working at a startup on two continents, data science, and the world outside the office.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://idclark.github.io" # the base hostname & protocol for your site

@@ -3,6 +3,7 @@ layout: page
 title: Notes
 permalink: /notes/
 ---
+#### Potpouri for the mind and body
 These are all links that I repeatedly visit and hopefully you can find some of them helpful as well. 
 
 ## Data Science 
