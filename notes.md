@@ -7,11 +7,13 @@ permalink: /notes/
 These are all links that I repeatedly visit and hopefully you can find some of them helpful as well. 
 
 ## Data Science 
-[Andew Moore's Tutorial's from Carnegie Mellon](http://www.cs.cmu.edu/~awm/tutorials.html)
+[Andew Moore's Tutorials from Carnegie Mellon](http://www.cs.cmu.edu/~awm/tutorials.html)
+
+[The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 [Dive Into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/)
 
-[Standord's 231n Neural Net course](http://cs231n.github.io/)
+[Stanford's 231n Neural Net course](http://cs231n.github.io/)
 
 [Chris Colah on Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 
