@@ -1,3 +1,8 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
 Ian Clark
 ======
 
