@@ -41,7 +41,8 @@ Skills
 - Proficient: Python, SQL, R, git, 
 - Competent: Java, Bash, Apache Nifi / Airflow
 - For Fun: Go, Android
-**Databases**
+
+**Databases:**
 - ElasticSearch, PostgreSQl, MySQL, Hive, Redshift
 
 **Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, Pytorch
