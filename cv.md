@@ -6,7 +6,7 @@ Ian Clark
 ======
 
 #### Data enthusiast with a strong background in enterprise client management, statistics, and programming.
-###### [ [idclark.github.io](http://idclark.github.io) ] . [ idclark13@gmail.com ] 
+##### [ [idclark.github.io](http://idclark.github.io) ] . [ idclark13@gmail.com ] 
 
 
 Experience
