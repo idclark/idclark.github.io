@@ -12,15 +12,19 @@ Ian Clark
 Experience
 ---------
 **Technical Solutions Consultant, Google** (2018-present, Chicago, IL)
+
 Technical POC for all post-sales troubleshooting, ETL, and API integration for Google’s Enterprise customers.
 
 - Led a five person Analytics/Insights team responsible for synthesizing disparate datasets of customer support tickets for a top-5 agency, unblocking $2 million in revenue annually and presented findings to the client and senior Google leadership.
+
 - Co-lead of a seven-person automation team to refactor and update Python troubleshooting tools and SQL dashboards used by more than two hundred Google Global Customer Care agents. Rewrote Several ETL pipelines for enhanced monitoring and reporting.
 
 **Data Scientist, RedOwl Analytics (acquired by Forcepoint 08/2017)** (2012-2018, Baltimore, MD)
+
 Worked with cross-functional teams to implement product features and provide customized analytical solutions to Enterprise Financial Services and Investigative customers.
 
 - Responsible for onboarding all of RedOwl’s EMEA customers, developing their analytical strategies, training users and relaying customer feedback to RedOwl’s VP of Customer Success.
+
 - Reduced product downtime by 35% with new automated application monitoring alerts with Python and Bash. Dashboards were built using Logstash and Kibana as well as Grafana to alert when ETL processes did not complete successfully. System metrics were also captured to alert for high CPU usage or full disk space. Python scripts would then email alerts and summaries to the relevant parties.
 
 Education
